@@ -31,3 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Proje resmi:
 
 ![Proje resmi](.\img\dahlia-6531229_960_720.jpg)
+https://github.com/clkky/kodluyoruzilkrepo/blob/master/img/dahlia-6531229_960_720.jpg
