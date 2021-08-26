@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Proje resmi:
 
-![Proje resmi](.\img\dahlia-6531229_960_720.jpg)
+![Proje resmi](..\img\dahlia-6531229_960_720.jpg)
